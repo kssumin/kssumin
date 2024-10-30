@@ -11,7 +11,7 @@
 ## 🔥 History
 
 ### 교육
-* 크래프톤 Publishing Platform Div. Web Back-End Developer Intern(2024.09 ~ )
+* 크래프톤 Publishing Platform Div. Web Back-End Developer Intern(2024.10 ~ 2025.01)
 * 크래프톤 정글 5기 (2024.03 ~ 2024.07)
   * OS의 핵심을 직접 구현하는 핀토스 과정 수료
   * Thread, System Call, Virtual Memory 구현
