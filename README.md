@@ -1,6 +1,6 @@
 # 🥟 Mando
 
-안녕하세요. 지속 가능하고 유지보수가 용이한 소프트웨어 개발을 추구하는 백엔드 개발자입니다.
+안녕하세요. 지속 가능하고 유지보수가 용이한 소프트웨어 개발을 추구하는 백엔드 개발자 김수민입니다.
 
 ## 👩‍💻 About Me
 
@@ -9,9 +9,9 @@
 * Java 언어에 대한 깊은 이해를 바탕으로 객체지향 프로그래밍, 함수형 프로그래밍에 관심이 있습니다.
 
 ## 🔥 History
+* 크래프톤 Publishing Platform Div. Web Back-End Developer Intern(2024.10 ~ 2025.01)
 
 ### 교육
-* 크래프톤 Publishing Platform Div. Web Back-End Developer Intern(2024.10 ~ 2025.01)
 * 크래프톤 정글 5기 (2024.03 ~ 2024.07)
   * OS의 핵심을 직접 구현하는 핀토스 과정 수료
   * Thread, System Call, Virtual Memory 구현
