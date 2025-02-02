@@ -11,7 +11,7 @@
 ## 🔥 History
 * 크래프톤 Publishing Platform Div. Web Back-End Developer(2025.01 ~ )
 * Yapp 25기 (2024.11 ~ )
-* 크래프톤 Publishing Platform Div. Web Back-End Developer Intern(2024.10 ~ 2025.12)
+* 크래프톤 Publishing Platform Div. Web Back-End Developer Intern(2024.10 ~ 2024.12)
 * 크래프톤 정글 5기 (2024.03 ~ 2024.08)
 * 카카오테크캠퍼스 1기 2단계 우수 수료 (2023.04 ~ 2023.11)
 * 전남대학교 교내동아리 에코노베이션 (2021.09 ~ 2024.08)
