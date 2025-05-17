@@ -36,3 +36,6 @@ Software Engineer passionate about sustainable and maintainable backend developm
 ## Open Source Contributions
 ### spring-data-mongodb
 [Fix AddFieldsOperationBuilder to treat String value as Field reference](https://github.com/spring-projects/spring-data-mongodb/pull/4959)
+
+### spring-retry
+[Add warnings for invalid setter values in ExponentialBackoffPolicy](https://github.com/spring-projects/spring-retry/pull/492)
