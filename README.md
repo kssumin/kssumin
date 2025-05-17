@@ -15,6 +15,13 @@ Software Engineer passionate about sustainable and maintainable backend developm
 * Econovation, Chonnam National University Club (2021.09 - 2024.08)
 * Computer Engineering, Chonnam National University (2020.03 - 2024.08)
 
+## ⭐️ Open Source Contributions
+
+| Project | Contribution |
+|---------|--------------|
+| spring-data-mongodb | [Fix AddFieldsOperationBuilder to treat String value as Field reference](https://github.com/spring-projects/spring-data-mongodb/pull/4959) |
+| spring-retry | [Add warnings for invalid setter values in ExponentialBackOffPolicy](https://github.com/spring-projects/spring-retry/pull/492) |
+
 ## 🛠 Technical Skills
 ### Backend
 * Java, Spring Boot, JPA
@@ -33,9 +40,3 @@ Software Engineer passionate about sustainable and maintainable backend developm
 * Blog: [Mando.log](https://velog.io/@kssumin)
 * GitHub: [@kssumin](https://github.com/kssumin)
 
-## Open Source Contributions
-### spring-data-mongodb
-[Fix AddFieldsOperationBuilder to treat String value as Field reference](https://github.com/spring-projects/spring-data-mongodb/pull/4959)
-
-### spring-retry
-[Add warnings for invalid setter values in ExponentialBackoffPolicy](https://github.com/spring-projects/spring-retry/pull/492)
