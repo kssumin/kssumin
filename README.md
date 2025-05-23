@@ -19,6 +19,7 @@ Software Engineer passionate about sustainable and maintainable backend developm
 |---------|--------------|
 | spring-data-mongodb | [Fix AddFieldsOperationBuilder to treat String value as Field reference](https://github.com/spring-projects/spring-data-mongodb/pull/4959) |
 | spring-retry | [Add warnings for invalid setter values in ExponentialBackOffPolicy](https://github.com/spring-projects/spring-retry/pull/492) |
+| resilience4j | [Issue #2295: Ensure ignoreExceptions take precedence over recordExceptions](https://github.com/resilience4j/resilience4j/pull/2304) |
 
 ## 🛠 Technical Skills
 ### Backend
