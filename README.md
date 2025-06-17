@@ -22,6 +22,7 @@ Software Engineer passionate about sustainable and maintainable backend developm
 | resilience4j | [Issue #2295: Ensure ignoreExceptions take precedence over recordExceptions](https://github.com/resilience4j/resilience4j/pull/2304) |
 | assertj | [Add option to ignore compared fields existence check](https://github.com/assertj/assertj/pull/3836#issuecomment-2905885144) |
 | spring-framework | [Update outdated JettyHttpHandlerAdapter example in reference documentation](https://github.com/spring-projects/spring-framework/pull/34877) |
+| fixture-monkey | [Implement InnerSpec Kotlin DSL to resolve parameter shadowing](https://github.com/naver/fixture-monkey/pull/1196) |
 
 ## 🛠 Technical Skills
 ### Backend
