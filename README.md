@@ -24,18 +24,9 @@ Software Engineer passionate about sustainable and maintainable backend developm
 | spring-framework | [Update outdated JettyHttpHandlerAdapter example in reference documentation](https://github.com/spring-projects/spring-framework/pull/34877) |
 | fixture-monkey | [Implement InnerSpec Kotlin DSL to resolve parameter shadowing](https://github.com/naver/fixture-monkey/pull/1196) |
 
-## 🛠 Technical Skills
-### Backend
-* Java, Spring Boot, JPA
-* JUnit5, Mockito
-
-### Database
-* MySQL, Redis, MongoDB
-* Flyway
-
-### DevOps
-* Docker, Docker Compose
-* AWS, Nginx
+## 🏅 Certificates
+(2025.08.) AWS Solutions Architect - Associate - Amazon Web Services - Pass
+(2025.06.) SQL Developer (SQLD) - KData - Pass
 
 ## 📫 Contact
 * Email: ksoomin25@gmail.com
