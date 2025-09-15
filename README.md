@@ -11,7 +11,7 @@ Software Engineer passionate about sustainable and maintainable backend developm
 * Krafton Jungle 5th Program (2024.03 - 2024.08)
 * Kakao Tech Campus 1st Program, Outstanding Completion (2023.04 - 2023.11)
 * Econovation, Chonnam National University Club (2021.09 - 2024.08)
-* Computer Engineering, Chonnam National University (2020.03 - 2024.08)
+* Computer Engineering, University (2020.03 - 2024.08)
 
 ## ⭐️ Open Source Contributions
 
