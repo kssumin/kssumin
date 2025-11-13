@@ -7,7 +7,7 @@ Software Engineer passionate about sustainable and maintainable backend developm
 * Deep understanding of Java with interests in object-oriented and functional programming paradigms
 
 ## 🔥 Experience
-* Backend Developer Intern, Publishing Platform Division, Krafton (2024.10 - Present)
+* Backend Developer, Publishing Platform Division, Krafton (2024.10 - Present)
 * Krafton Jungle 5th Program (2024.03 - 2024.08)
 * Kakao Tech Campus 1st Program, Outstanding Completion (2023.04 - 2023.11)
 * Econovation, Chonnam National University Club (2021.09 - 2024.08)
