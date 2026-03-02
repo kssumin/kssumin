@@ -7,6 +7,8 @@
 
 | Project | Contribution |
 |---------|--------------|
+| grpc-java | [okhttp: Fix bidirectional keep-alive causing spurious GO_AWAY](https://github.com/grpc/grpc-java/pull/12502) |
+| spring-data-jpa | [Prevent sorting and count queries for non-SELECT statements](https://github.com/spring-projects/spring-data-jpa/pull/4052) |
 | spring-data-mongodb | [Fix AddFieldsOperationBuilder to treat String value as Field reference](https://github.com/spring-projects/spring-data-mongodb/pull/4959) |
 | spring-retry | [Add warnings for invalid setter values in ExponentialBackOffPolicy](https://github.com/spring-projects/spring-retry/pull/492) |
 | resilience4j | [Issue #2295: Ensure ignoreExceptions take precedence over recordExceptions](https://github.com/resilience4j/resilience4j/pull/2304) |
