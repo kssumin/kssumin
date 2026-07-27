@@ -16,10 +16,10 @@
 | fixture-monkey | [Implement InnerSpec Kotlin DSL to resolve parameter shadowing](https://github.com/naver/fixture-monkey/pull/1196) |
 
 ## 🏅 Certificates
-* (2025.08.) AWS Solutions Architect - Associate - Amazon Web Services - Pass
-* (2025.06.) SQL Developer (SQLD) - KData - Pass
+* [CKA (Certified Kubernetes Administrator)](https://www.credly.com/badges/5cf1438a-bff7-420f-9f4f-deb40ee01720) - The Linux Foundation - Pass
+* [AWS Solutions Architect - Associate](https://www.credly.com/badges/306387d3-5d20-4328-bca6-4c3f3437bef3) - Amazon Web Services - Pass
+* SQL Developer (SQLD) - KData - Pass
 
 ## 📫 Contact
 * Email: ksoomin25@gmail.com
 * GitHub: [@kssumin](https://github.com/kssumin)
-
